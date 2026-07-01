@@ -1,11 +1,5 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — [EMMANUEL CHIBUIKEM DINNEYA]
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
 
 ---
 
@@ -13,8 +7,13 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
+- How to create and setup a GitHub account.
+- How to personalize my GitHub profile and account settings.
+- How to create a new repository.
+- How to create folders within a repository.
+- How to create and upload files in a repository.
+- How collaboration works in GitHub.
+- How to fork an existing repository
 -
 
 ---
@@ -24,20 +23,25 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+I reactivated my github account.
+I updated my account settings including my profile information, accessibilty and security settings.
+I downloaded the onboarding template file.
+I edited it and uploaded it on the classes folder.
 
 ### What happened / Result
 
+I was successful in completing all required tasks from the onboarding session.
 
 ### Challenges I faced
-
+Uploading the file failed initially, so I had to cancel the upload and try again before it worked.
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+I learnt how to properly set up a Github account and navigate through it.
+I also learnt how to set up a Github repository.
 
 ---
 
@@ -45,7 +49,7 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+- why do we save the files in our repository as ".md" extension?
 -
 
 ---
@@ -58,4 +62,4 @@
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Emmanuel Chibuikem Dinneya] · [Emmalex75]*
