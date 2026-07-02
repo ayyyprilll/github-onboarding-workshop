@@ -1,11 +1,5 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — Mathias Eleluwor
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
 
 ---
 
@@ -13,7 +7,10 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
+Class Management – I learned how to organize and manage a class/project structure effectively, keeping things well-structured and easy to navigate.
+Creating a GitHub Account – I learned how to sign up for GitHub, set up my profile, and get familiar with the platform as a place to host and manage code and projects.
+Forking a Repository – I learned how to fork an existing repository, which creates my own copy of someone else's project that I can freely experiment with or build on without affecting the original.
+Working with .md Files – I learned how to download a Markdown (.md) file and edit it, including using Markdown syntax to format text (headings, lists, links, bold/italics, etc.) for things like README files.
 -
 -
 
@@ -24,11 +21,14 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+Created a GitHub Account – I signed up for GitHub and set up my profile to start hosting and managing projects.
+Forked a Repository – I created my own copy of an existing repository, which lets me experiment with or build on someone else's project without affecting the original.
+Downloaded a .md File – I downloaded a Markdown (.md) file so I could view and edit its content locally.
 
 ### What happened / Result
-
-
+Created a GitHub Account – I successfully signed up for GitHub and set up my account.
+Forked a Repository – I forked a repository and uploaded my .md file to it.
+Edited a Markdown File – I edited my uploaded .md file within the pre-onboarding folder.
 ### Challenges I faced
 
 
