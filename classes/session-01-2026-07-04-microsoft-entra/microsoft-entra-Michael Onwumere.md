@@ -26,7 +26,7 @@ The principles of Zero Trust security, where every access request is verified be
 How Privileged Identity Management (PIM) enables Just-in-Time (JIT) access, reducing the risk associated with permanent administrative privileges.
 The principle of least privilege and why users should only receive the permissions necessary to perform their duties.
 Lab / Hands-On Work
-What I Did
+What I Did :
 
 During the practical session, I completed hands-on exercises using the Microsoft Entra admin center.
 
@@ -43,16 +43,14 @@ Understanding the approval process, activation duration, and auditing capabiliti
 below are the Images for my hands-on exercise on Conditional Access policy and Privilege Identity Management 
 
 # Configuring a Conditional Access policy in Microsoft Entra Admin Center.
-lab 1.jpg
-lab 2.jpg
-lab3.jpg
-lab4.jpg
-lab5.jpg
+<img width="1050" height="460" alt="lab 1" src="https://github.com/user-attachments/assets/f51b2f55-8cd3-4b25-8514-2172d9beb0ab" />
+<img width="1050" height="550" alt="lab 2" src="https://github.com/user-attachments/assets/ff416870-5028-4ad1-84c7-ed3d9e47f2ad" />
+<img width="882" height="558" alt="lab3" src="https://github.com/user-attachments/assets/f7e4cab7-df7e-41b7-a86b-110e4706e617" />
+<img width="1326" height="512" alt="lab4" src="https://github.com/user-attachments/assets/00b6e1df-c747-4d44-a02d-dd8e7722ddb0" />
+<img width="1106" height="599" alt="lab5" src="https://github.com/user-attachments/assets/12d7c6f4-a3d4-4694-9bb7-3bdecccee34b" />
 
-Exploring Microsoft Entra Privileged Identity Management (PIM) and activating eligible administrative roles.
-lab6.jpg
-
-Screenshot 2 – Learning Objectives
+# Exploring Microsoft Entra Privileged Identity Management (PIM) and activating eligible administrative roles.
+<img width="1286" height="577" alt="lab6" src="https://github.com/user-attachments/assets/9b209449-962a-4c87-afce-6bb34072dc33" />
 
 # What Happened / Result
 
@@ -70,7 +68,8 @@ Understanding the order in which Conditional Access policies are evaluated.
 Differentiating between authentication methods and authentication strength policies.
 Understanding the workflow of Privileged Identity Management, particularly the distinction between eligible and active role assignments.
 Navigating the numerous identity security options available within the Microsoft Entra Admin Center.
-My Takeaways
+
+My Takeaways:
 
 This session reinforced that identity is one of the most critical security boundaries in cloud environments. Protecting user identities is essential because every request to access cloud resources begins with authentication.
 
@@ -78,14 +77,20 @@ The practical labs helped me understand how Conditional Access strengthens secur
 
 Overall, the combination of authentication, Conditional Access, and PIM provides a layered security approach that aligns with Microsoft's Zero Trust architecture.
 
-Questions I Still Have
+Questions I Still Have : 
 How should organizations prioritize multiple Conditional Access policies when they apply to the same users?
 What are the recommended best practices for deploying Privileged Identity Management in production environments with multiple administrators?
-Resources I Found Useful
+
+Resources I Found Useful :
+
 Microsoft Learn – Secure access to resources using Microsoft Entra
+
 Microsoft Entra Admin Center
+
 Microsoft Learn documentation on Conditional Access
+
 Microsoft Learn documentation on Privileged Identity Management (PIM)
+
 Microsoft Learn documentation on Authentication Methods and Authentication Strength
 
 
